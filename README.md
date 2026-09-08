@@ -18,7 +18,7 @@ This repository contains samples of operational documentation, runbooks, end-use
   Technical Standard Operating Procedure (SOP) for extracting endpoint hardware hash IDs via PowerShell, ingesting devices into Microsoft Intune, managing security groups and deploying cloud images.
 
 ### 2. User & Technical Documentation
-* **[Mobile Data Sharing User Guide](./user-guides/mobile-data-sharing.pdf)**  
+* **[Mobile Data Sharing User Guide](./user-guides/mobile_data_sharing.pdf)**  
   End-user visual and step-by-step documentation detailing hotspot configuration and network tethering across mobile endpoints. Example of UX principles applied to user documentation.
 
 * **[Password Change User Guide](./user-guides/password_change.pdf)**  

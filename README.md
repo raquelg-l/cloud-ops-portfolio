@@ -25,7 +25,7 @@ This repository contains samples of operational documentation, runbooks, end-use
 End-user visual and step-by-step documentation detailing password change process. Standard user documentation.
 
 ### 3. Operational Reporting & Data Tracking
-* **[Endpoint Provisioning & QA Checklist](./operational-reports/device-provisioning-checklist.pdf)**  
+* **[Endpoint Provisioning & QA Checklist](./operational-reports/device_provisioning_checklist.pdf)**  
   Quality assurance tracking sheet for operational validation during hardware onboarding and imaging workflows.
 * **[System Inventory & Asset Tracking](./operational-reports/assets_inventory_tracker.xlsx)**  
   Structured dataset for asset audits, user allocations and service desk reporting.

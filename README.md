@@ -18,13 +18,16 @@ This repository contains samples of operational documentation, runbooks, end-use
   Technical Standard Operating Procedure (SOP) for extracting endpoint hardware hash IDs via PowerShell, ingesting devices into Microsoft Intune, managing security groups and deploying cloud images.
 
 ### 2. User & Technical Documentation
-* **[Mobile Data Sharing User Guide](./user-guides/mobile-data-sharing-guide.md)**  
-  End-user visual and step-by-step documentation detailing hotspot configuration and network tethering across mobile endpoints.
+* **[Mobile Data Sharing User Guide](./user-guides/mobile-data-sharing.pdf)**  
+  End-user visual and step-by-step documentation detailing hotspot configuration and network tethering across mobile endpoints. Example of UX principles applied to user documentation.
+
+* **[Password Change User Guide](./user-guides/password_change.pdf)**  
+End-user visual and step-by-step documentation detailing password change process. Standard user documentation.
 
 ### 3. Operational Reporting & Data Tracking
-* **[Endpoint Provisioning & QA Checklist](./operational-reports/device-provisioning-checklist.md)**  
+* **[Endpoint Provisioning & QA Checklist](./operational-reports/device-provisioning-checklist.pdf)**  
   Quality assurance tracking sheet for operational validation during hardware onboarding and imaging workflows.
-* **[System Inventory & Asset Tracking (CSV Preview)](./operational-reports/system-inventory-sample.csv)**  
+* **[System Inventory & Asset Tracking](./operational-reports/assets_inventory_tracker.xlsx)**  
   Structured dataset for asset audits, user allocations and service desk reporting.
 
 ---
